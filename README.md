@@ -10,6 +10,8 @@ This project leverages Deep Learning techniques to detect COVID-19 from CT scan 
 - Processes **CT scan images** for COVID-19 detection.
 - Achieves high accuracy with optimized hyperparameters.
 - Built using **Python, TensorFlow, and OpenCV**.
+## Code
+- [Link to the code](https://github.com/bssakethreddy/Covid19-Detection-Using-DL/blob/main/deeplabv3.ipynb)
 
 ## Usage
 Run the Jupyter Notebook to train and evaluate the model:
