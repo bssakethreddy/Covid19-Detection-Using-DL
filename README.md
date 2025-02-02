@@ -18,20 +18,14 @@ Run the Jupyter Notebook to train and evaluate the model:
 ```bash
 jupyter notebook deeplabv3.ipynb
 ```
-
 ## Dataset
 - The dataset consists of CT scan images and masks labeled for COVID-19 detection.
-
 
 ## Results
 - Achieved an **accuracy of 98%** in COVID-19 detection.
 - The model effectively segments affected lung areas.
 
-## Contributors
-- **Your Name** – [GitHub Profile](https://github.com/bssakethreddy)
-- **Guide:** Dr. Jayeesh
-
 ## Acknowledgments
-- Thanks to **Jayeesh** for guidance.
+- Thanks to ** Dr. Jayeesh** for guidance.
   
 
