@@ -19,7 +19,7 @@ jupyter notebook deeplabv3.ipynb
 
 ## Dataset
 - The dataset consists of CT scan images and masks labeled for COVID-19 detection.
-- 
+
 
 ## Results
 - Achieved an **accuracy of 98%** in COVID-19 detection.
